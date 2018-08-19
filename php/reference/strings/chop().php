@@ -1,0 +1,3 @@
+<?php
+
+// See rtrim().php
